@@ -6,7 +6,7 @@
 
 a {
     text-decoration: none;
-    color: #f64a4a;
+    color: #1565c0;
 }
 a:hover,
 a:focus {
@@ -96,7 +96,7 @@ h3 {
 }
 .post-title {
     font-size: 2em;
-    color: #f64a4a;
+    color: #1565c0;
     margin-bottom: 0.2em;
     font-family: arial;
     font-weight: normal;
